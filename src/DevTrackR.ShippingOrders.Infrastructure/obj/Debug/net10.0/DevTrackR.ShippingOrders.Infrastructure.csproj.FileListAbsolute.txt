@@ -1,0 +1,15 @@
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\obj\Debug\net10.0\DevTrackR.ShippingOrders.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\obj\Debug\net10.0\DevTrackR.ShippingOrders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\obj\Debug\net10.0\DevTrackR.ShippingOrders.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\obj\Debug\net10.0\DevTrackR.ShippingOrders.Infrastructure.AssemblyInfo.cs
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\obj\Debug\net10.0\DevTrackR.ShippingOrders.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\bin\Debug\net10.0\DevTrackR.ShippingOrders.Infrastructure.deps.json
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\bin\Debug\net10.0\DevTrackR.ShippingOrders.Infrastructure.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\bin\Debug\net10.0\DevTrackR.ShippingOrders.Infrastructure.pdb
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\bin\Debug\net10.0\DevTrackR.ShippingOrders.Core.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\bin\Debug\net10.0\DevTrackR.ShippingOrders.Core.pdb
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\obj\Debug\net10.0\DevTrack.5E46BC19.Up2Date
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\obj\Debug\net10.0\DevTrackR.ShippingOrders.Infrastructure.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\obj\Debug\net10.0\refint\DevTrackR.ShippingOrders.Infrastructure.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\obj\Debug\net10.0\DevTrackR.ShippingOrders.Infrastructure.pdb
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Infrastructure\obj\Debug\net10.0\ref\DevTrackR.ShippingOrders.Infrastructure.dll

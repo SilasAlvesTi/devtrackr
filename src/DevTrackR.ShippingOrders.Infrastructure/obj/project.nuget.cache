@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dp2tuQ1WxRA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Silas\\Documents\\projetos\\curso-microsservicos\\src\\DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
