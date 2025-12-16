@@ -31,7 +31,7 @@ namespace DevTrackR.ShippingOrders.Core.Entities
             foreach (var service in services)
             {
                 var servicePrice = service.FixedPrice + service.PricePerKg * WeightInKg;
-                TotalPrice = servicePrice;
+                TotalPrice += servicePrice;
                 Services.Add(new ShippingOrderService(service.Title, servicePrice));
             }
         }

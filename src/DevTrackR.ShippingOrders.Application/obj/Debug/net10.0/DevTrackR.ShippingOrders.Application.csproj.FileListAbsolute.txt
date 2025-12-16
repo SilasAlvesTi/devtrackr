@@ -15,3 +15,4 @@ C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrd
 C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Application\obj\Debug\net10.0\refint\DevTrackR.ShippingOrders.Application.dll
 C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Application\obj\Debug\net10.0\DevTrackR.ShippingOrders.Application.pdb
 C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Application\obj\Debug\net10.0\ref\DevTrackR.ShippingOrders.Application.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.Application\obj\Debug\net10.0\DevTrackR.ShippingOrders.Application.sourcelink.json

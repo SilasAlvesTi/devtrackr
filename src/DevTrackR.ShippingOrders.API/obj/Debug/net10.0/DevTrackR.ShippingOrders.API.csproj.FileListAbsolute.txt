@@ -38,3 +38,11 @@ C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrd
 C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\obj\Debug\net10.0\DevTrackR.ShippingOrders.API.pdb
 C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\obj\Debug\net10.0\DevTrackR.ShippingOrders.API.genruntimeconfig.cache
 C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\obj\Debug\net10.0\ref\DevTrackR.ShippingOrders.API.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\obj\Debug\net10.0\DevTrackR.ShippingOrders.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\obj\Debug\net10.0\DevTrackR.ShippingOrders.API.sourcelink.json
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\bin\Debug\net10.0\DnsClient.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\bin\Debug\net10.0\SharpCompress.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\bin\Debug\net10.0\Snappier.dll
+C:\Users\Silas\Documents\projetos\curso-microsservicos\src\DevTrackR.ShippingOrders.API\bin\Debug\net10.0\ZstdSharp.dll
